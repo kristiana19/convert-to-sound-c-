@@ -17,7 +17,7 @@ The program:
 ### 1. Install Dependencies
 
 On Linux:
-`bash`
+```bash
 sudo apt install espeak
 sudo apt install alsa-utils  # for 'aplay'
 
