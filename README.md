@@ -23,8 +23,8 @@ sudo apt install alsa-utils  # for 'aplay'
 
 ### 2. Compile the Program
 
-g++ pretvoriVZvok.cpp -o text_to_speech
+g++ pretvoriVZvok.cpp -o pretvoriVZvok
 
 ### 3. Run the Program
 
-./text_to_speech
+./pretvoriVZvok
