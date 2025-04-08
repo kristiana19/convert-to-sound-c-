@@ -14,10 +14,11 @@ The program:
 
 ## ⚙️ Getting Started
 
+```bash
 ### 1. Install Dependencies
 
-On Linux:
-```bash
+### On Linux:
+
 sudo apt install espeak
 sudo apt install alsa-utils  # for 'aplay'
 
